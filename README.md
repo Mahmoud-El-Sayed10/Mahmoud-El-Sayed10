@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying as part of a bootcamp for full stack software engineering
+Dedicated full-stack developer with roots in biological sciences and computer science, and an MSc in progress at Université Catholique de Lille – JUNIA-ISEN. I work with a Complexity into Clarity mindset, turning requirements into clear steps and working software in JavaScript/React; Python; and SQL, from interactive apps to algorithm visuals and AI-assisted features. Years of tutoring (100+ students) built my patience, clear communication, and fast conflict resolution, so teams stay organized and move forward. I care about technology that helps people learn, collaborate, and solve real problems. I’m seeking a Software Engineering internship to deepen my skills and grow toward software project management
 
 
 ## 🌐 Socials:
